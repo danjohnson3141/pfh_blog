@@ -5,10 +5,33 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: /pfh_blog # the subpath of your site, e.g. /blog/
-url: https://danjohnson3141.github.io # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+#baseurl: /pfh_blog # the subpath of your site, e.g. /blog/
+#url: https://danjohnson3141.github.io # the base hostname & protocol for your site
+url:                 ''
+baseurl:             'https://danjohnson3141.github.io/pfh_blog'
+twitter_username: drmindycurry
+github_username:  danjohnson3141
 
 # Build settings
 markdown: kramdown
+
+
+######
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:  pretty
+markdown:   kramdown
+kramdown:
+  input: GFM
+
+# Setup
+#title:               Eventbeyond
+#tagline:             External API Docs
+#description:         This is where you can find all the information you need for integrating your data with our system.
+#url:                 ''
+#baseurl:             'https://danjohnson3141.github.io/jekyll-testing'
+checkmark:           "&#9989;"
+
+# Custom vars
+version:             1.0.0
