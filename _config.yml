@@ -1,22 +1,3 @@
-# Site settings
-title:               Passion for Poopaaaaa
-tagline:             External API Docs
-email:               info@passionforhealingnaturopathic.com
-description: > # this means to ignore newlines until "baseurl:"
-  In this area Dr. Curry periodically shares her ideas, natural medicine research reviews, recipes, inspirational health stories, health tips, and provides answers to questions her patients are currently asking. These articles are not meant to diagnose or treat any specific condition without Doctor supervision.
-  Please call Dr. Curry at 503-995-8674 to schedule a Naturopathic Home Visit when you are ready to address your individual health concerns. Dr. Curry will custom tailor a plan targeted to your individual preferences and goals to optimize your whole body, mind and spirit.
-#baseurl: /pfh_blog # the subpath of your site, e.g. /blog/
-#url: https://danjohnson3141.github.io # the base hostname & protocol for your site
-url:                 /pfh_blog
-baseurl:             https://danjohnson3141.github.io/pfh_blog/
-twitter_username:    drmindycurry
-github_username:     danjohnson3141
-
-# Build settings
-markdown: kramdown
-
-
-######
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -26,11 +7,11 @@ kramdown:
   input: GFM
 
 # Setup
-#title:               Eventbeyond
-#tagline:             External API Docs
-#description:         This is where you can find all the information you need for integrating your data with our system.
-#url:                 ''
-#baseurl:             'https://danjohnson3141.github.io/jekyll-testing'
+title:               Eventbeyond
+tagline:             External API Docs
+description:         This is where you can find all the information you need for integrating your data with our system.
+url:                 ''
+baseurl:             'https://danjohnson3141.github.io/pfh_blog'
 checkmark:           "&#9989;"
 
 # Custom vars
