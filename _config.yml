@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Please call Dr. Curry at 503-995-8674 to schedule a Naturopathic Home Visit when you are ready to address your individual health concerns. Dr. Curry will custom tailor a plan targeted to your individual preferences and goals to optimize your whole body, mind and spirit.
 #baseurl: /pfh_blog # the subpath of your site, e.g. /blog/
 #url: https://danjohnson3141.github.io # the base hostname & protocol for your site
-url:                 '/pfh_blog'
-baseurl:             'https://danjohnson3141.github.io/pfh_blog/'
+url:                 /pfh_blog
+baseurl:             https://danjohnson3141.github.io/pfh_blog/
 twitter_username:    drmindycurry
 github_username:     danjohnson3141
 
