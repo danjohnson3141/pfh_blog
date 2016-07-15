@@ -10,7 +10,7 @@ kramdown:
 title:               Eventbeyond
 tagline:             External API Docs
 description:         This is where you can find all the information you need for integrating your data with our system.
-url:                 ''
+url:                 'https://danjohnson3141.github.io/pfh_blog'
 baseurl:             'https://danjohnson3141.github.io/pfh_blog'
 checkmark:           "&#9989;"
 
