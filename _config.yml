@@ -11,7 +11,7 @@ title:               Passion For Healing
 tagline:             Passion For Healing Tagline
 description:         Passion For Healing Blog
 url: https://danjohnson3141.github.io/pfh_blog
-baseurl: pfh_blog/
+baseurl: pfh_blog
 checkmark:           "&#9989;"
 
 # Custom vars
