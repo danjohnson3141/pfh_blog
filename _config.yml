@@ -1,18 +1,2 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:  pretty
-markdown:   kramdown
-kramdown:
-  input: GFM
-
-# Setup
-title:               Passion For Healing
-tagline:             Passion For Healing Tagline
-description:         Passion For Healing Blog
 url: https://danjohnson3141.github.io/pfh_blog
-baseurl: pfh_blog/
-checkmark:           "&#9989;"
-
-# Custom vars
-version:             1.0.0
+baseurl: 
