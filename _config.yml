@@ -9,8 +9,8 @@ description: > # this means to ignore newlines until "baseurl:"
 #url: https://danjohnson3141.github.io # the base hostname & protocol for your site
 url:                 ''
 baseurl:             'https://danjohnson3141.github.io/pfh_blog/'
-twitter_username: drmindycurry
-github_username:  danjohnson3141
+twitter_username:    drmindycurry
+github_username:     danjohnson3141
 
 # Build settings
 markdown: kramdown
